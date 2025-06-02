@@ -20,9 +20,7 @@ The chatbot provides accurate and contextually relevant responses to legal queri
 ## Getting Started
 
 #### 1. Clone the repository:
-   - ```
-     git https://github.com/srujankothuri/LegalSmart-Chatbot.git
-     ```
+
 #### 2. Install necessary packages:
    - ```
      pip install -r requirements.txt
@@ -35,7 +33,4 @@ The chatbot provides accurate and contextually relevant responses to legal queri
    - If you are going to host it in streamlit, huggingface or other...
       - Save it in the secrets variable provided by the hosting with the name `TOGETHER_API_KEY` and key as `YOUR_TOGETHER_API_KEY`.
 
-#### 5. To run the `app.py` file, open the CMD Terminal and and type `streamlit run FULL_FILE_PATH_OF_APP.PY`.
-
-## Contact
-If you have any questions or feedback, please raise an [github issue](https://github.com/srujankothuri/LegalSmart-Chatbot/issues)
+#### 5. To run the `app.py` file, open the CMD Terminal and and type `streamlit run FULL_FILE_PATH_OF_API'
